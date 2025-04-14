@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Herpes Zoster (HZ) is a skin disease that affects one out of five people the early diagnosis of HZ is important and treatment should be provided within 70hr. Mobile diagnosis of HZ with assistance of artificial intelligence that can reduce clinicians and diagnosis cost . hence the project aim is to train a robust and mobile deep neural network (DNN) that can distinguish HZ from other skin diseases in this we propose a knowledge distillation from ensemble via curriculum training (KDE-CT) in this project we given the dataset for Diagnosis HZ and which evaluated against 70types and total 10 combined DNN on the clean and corrupted images the trained mobilenetV3 and with server stream lit and the accuracy of this project is also high which gives up to the 95% and the probabilities of the diseases classification is high   
+=======
+# Diagnosis-of-Herpas-Zoster
+This project aims to enable early and accurate detection of Herpes Zoster (HZ) using a mobile-friendly deep learning model. By applying Knowledge Distillation from Ensemble via Curriculum Training (KDE-CT) on a MobileNetV3 architecture, the model classifies HZ among 70 skin diseases with up to 95% accuracy. 
+>>>>>>> 9b2a04c2c6cbf3bb6929d75db850d179a332e497
 =======
 # Diagnosis-of-Herpas-Zoster
 This project aims to enable early and accurate detection of Herpes Zoster (HZ) using a mobile-friendly deep learning model. By applying Knowledge Distillation from Ensemble via Curriculum Training (KDE-CT) on a MobileNetV3 architecture, the model classifies HZ among 70 skin diseases with up to 95% accuracy. 
