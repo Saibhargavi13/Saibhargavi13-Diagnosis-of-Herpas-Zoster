@@ -1,0 +1,2 @@
+# Diagnosis-of-Herpas-Zoster
+This project aims to enable early and accurate detection of Herpes Zoster (HZ) using a mobile-friendly deep learning model. By applying Knowledge Distillation from Ensemble via Curriculum Training (KDE-CT) on a MobileNetV3 architecture, the model classifies HZ among 70 skin diseases with up to 95% accuracy. 
